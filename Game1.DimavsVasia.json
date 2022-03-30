@@ -1,0 +1,60 @@
+{
+  "id" : 1,
+  "name1" : "Dima",
+  "name2" : "Vasia",
+  "stepsList" : [ {
+    "stepId" : 1,
+    "playerId" : 1,
+    "x" : 0,
+    "y" : 0,
+    "gameResult" : null
+  }, {
+    "stepId" : 2,
+    "playerId" : 2,
+    "x" : 1,
+    "y" : 1,
+    "gameResult" : null
+  }, {
+    "stepId" : 3,
+    "playerId" : 1,
+    "x" : 0,
+    "y" : 2,
+    "gameResult" : null
+  }, {
+    "stepId" : 4,
+    "playerId" : 2,
+    "x" : 1,
+    "y" : 2,
+    "gameResult" : null
+  }, {
+    "stepId" : 5,
+    "playerId" : 1,
+    "x" : 2,
+    "y" : 2,
+    "gameResult" : null
+  }, {
+    "stepId" : 6,
+    "playerId" : 2,
+    "x" : 2,
+    "y" : 1,
+    "gameResult" : null
+  }, {
+    "stepId" : 7,
+    "playerId" : 1,
+    "x" : 2,
+    "y" : 0,
+    "gameResult" : null
+  }, {
+    "stepId" : 8,
+    "playerId" : 2,
+    "x" : 1,
+    "y" : 0,
+    "gameResult" : null
+  }, {
+    "stepId" : 0,
+    "playerId" : 2,
+    "x" : 0,
+    "y" : 0,
+    "gameResult" : "PlayerId=2 name= Vasia symbol=O"
+  } ]
+}
